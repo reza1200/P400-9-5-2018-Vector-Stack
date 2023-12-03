@@ -1,5 +1,5 @@
-# P400-9-5-2018-Vector-Stack
+Project Objective Scope:
 
-The purpose of this project is to detect tampering of ID card using computer vision.This method will help diffrent organizations in detecting whether the ID is orginal or has been tampered.
+The purpose of this project is to detect tampering of an ID card using computer vision. This method will assist different organizations in determining whether the ID is original or has been tampered with.
 
-For this project i will calculate structral similarity of orginal ID card and the ID card uploaded by user.
+For this project, I will calculate the structural similarity between the original ID card and the ID card uploaded by the user.
